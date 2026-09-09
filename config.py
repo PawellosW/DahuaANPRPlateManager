@@ -1,0 +1,3 @@
+IP_KAMERY = None
+USERNAME = None
+PASSWORD = None
